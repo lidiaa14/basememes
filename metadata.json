@@ -1,0 +1,6 @@
+{
+  "name": "Base Meme Trader",
+  "description": "Base chain meme token real-time trading client and market explorer with interactive indicators, charts, price alerts, simulations, and safe contract scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
